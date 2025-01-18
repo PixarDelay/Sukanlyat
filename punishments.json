@@ -1,0 +1,39 @@
+{
+    "bans": [],
+    "mutes": [
+        {
+            "user_id": 7158354630,
+            "admin_id": 7159528904,
+            "admin_name": "Система варнов",
+            "reason": "Превышен лимит предупреждений (3/3)",
+            "until_date": 1737220584.766931,
+            "date": 1737209784.938668
+        }
+    ],
+    "warns": [
+        {
+            "user_id": 7158354630,
+            "admin_id": 7159528904,
+            "admin_name": "[ภєςtอᏒ \\[ \\#fpi \\]](tg://user?id=7159528904)",
+            "reason": "reklana",
+            "warn_num": 1,
+            "date": 1737206176.832555
+        },
+        {
+            "user_id": 7158354630,
+            "admin_id": 7159528904,
+            "admin_name": "[ภєςtอᏒ \\[ \\#fpi \\]](tg://user?id=7159528904)",
+            "reason": "reklama",
+            "warn_num": 2,
+            "date": 1737209680.202638
+        },
+        {
+            "user_id": 7158354630,
+            "admin_id": 7159528904,
+            "admin_name": "[ภєςtอᏒ \\[ \\#fpi \\]](tg://user?id=7159528904)",
+            "reason": "reklama",
+            "warn_num": 3,
+            "date": 1737209784.765709
+        }
+    ]
+}

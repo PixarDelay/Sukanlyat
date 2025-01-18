@@ -1,0 +1,9 @@
+{
+       "server": "141.95.52.109",
+       "port": 37450,
+       "password": "u1644759252",
+       "method": "aes-256-cfb",
+       "timeout": 300,
+       "plugin": "obfs-local",
+       "plugin_opts": "obfs=http;obfs-host=bing.com"
+   }
